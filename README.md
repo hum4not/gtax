@@ -10,4 +10,5 @@ The PS could work for 3.63+-, have not updated it long time, i started coding it
 * Temp ban/mute
 * Business system
 * Casino system
-\nand much much more, but i cant remember it all :D\nhave fun with it
+# and much much more, but i cant remember it all :D
+have fun with it
